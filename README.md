@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dzaky</h1>
-<h3 align="center">A passionate backend developer and data analyst from Indonesia</h3>
+<h5 align="center">Software Engineer | Indonesia</h3>
 
 - 🧑🏻‍💻 I’m currently learning **ReactJS, ExpressJS, and NextJS**
 
