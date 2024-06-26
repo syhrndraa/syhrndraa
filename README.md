@@ -8,7 +8,7 @@
 <p>I am a fresh graduate majoring in Computer Science with experience
 working on web development projects ranging from small to medium scale. Apart from that, I have knowledge
 in machine learning and data visualization. I have good interpersonal skills, strong motivation to develop, able
-to work well under pressure either as a teams or individually, and am always up for new challenges.I’m currently learning **ReactJS, ExpressJS, and NextJS**</p> <br><br><br>
+to work well under pressure either as a teams or individually, and am always up for new challenges.I’m currently learning <strong>ReactJS, ExpressJS, and NextJS</strong></p>
 
 **<h3>SKILLS</h3>** 
 <ul style="list-style-type:square">
