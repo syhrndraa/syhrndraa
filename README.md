@@ -1,13 +1,11 @@
+![](https://komarev.com/ghpvc/?username=syhrndraa&style=flat-square)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/syahrindra-dzaky-ramadhan/)
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="left">Hi 👋, I'm Dzaky</h1>
 <h3 align="center">Software Engineer | 📍Indonesia</h3> 
-<p align="center">
-<a href="https://linkedin.com/in/syahrindra-dzaky-ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahrindra-dzaky-ramadhan" height="20" width="20" /></a>
-</p>
 <hr>
 
 - 🧑🏻‍💻 I’m currently learning **ReactJS, ExpressJS, and NextJS** <br><br><br>
-<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 **<h3>SKILLS</h3>** 
 <ul style="list-style-type:square">
@@ -35,7 +33,7 @@
     </li>
   </i>
   <i>
-    <li>Tools <br>
+<!--     <li>Tools <br>
       <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> </a> &emsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>  &emsp;
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a>  &emsp;
@@ -60,13 +58,13 @@
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>&emsp;
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>&emsp;<br>
     </li>
-  </i>
+  </i> -->
 </ul>
 
  <br>
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syhrndraa&show_icons=true&locale=en&layout=compact" alt="syhrndraa" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syhrndraa&show_icons=true&locale=en" alt="syhrndraa" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syhrndraa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="syhrndraa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syhrndraa&show_icons=true&locale=en&theme=dracula" alt="syhrndraa" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syhrndraa&" alt="syhrndraa" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syhrndraa&theme=dracula" alt="syhrndraa" /></p>
